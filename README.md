@@ -7,6 +7,7 @@ Resources I used for OSEE
 ```
 OSEE/
 |__AttackerKB
+    |__Scripts
     |__Vulnerability assesments
     |__Kernel driver POCs
     |__Windows kernel POCs
