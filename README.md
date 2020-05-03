@@ -16,4 +16,6 @@ OSEE/
     |__Other (DLL hijacking, unquoted, local BOF)
 |__Kernel exploitation scripts/tools
 |__Whitepapers and presentations
+|_GdiExploitation
+    |__Compiled GDIOBjDump and View
 ```
